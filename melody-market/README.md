@@ -36,3 +36,90 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+
+npx create-next-app
+npm install --legacy-peer-deps
+npm run dev
+
+npm install -g @sanity/cli
+sanity init --coupon javascriptmastery2022
+OR
+npm -y create sanity@latest
+
+sanity docs
+sanity manage
+
+frontend
+pages/index.js <- main page
+
+rafce <- shortcut
+create lib folder -> client.js
+
+STRIPE CARD
+4242 4242 4242 4242
+04/24 424
+
+Vercel for Deployment
+sanity deployment 
+sanity help -> sanity deploy
+https://melody-market-db.sanity.studio/desk
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+.ENV
+NEXT_PUBLIC_SANITY_TOKEN = skojIUSmcyrPAXywtg1F9pyQpd8w6JUoWC6nGbk9gOwKZfvcdkGrS5cAwQjr5IjEIJr62RO5jCjRPEKD1pzBwLs56UZ8sdIJ7ls1IENOpLiH5WK1UO29I8Fe6xT8hHRzQgb3X09Q4BlVIZwhQTqy5hFHoWZMoAb2G6iIOeCcdKNfJZnOaWP0
+NEXT_PUBLIC_STRIPE_SECRET_KEY = sk_test_51MHLWFSIoQ4sOUF70H4cR8yXD87hgY88IbAMTKvM4uYYY0i2FSpPTtXR6tZj4CxVI4Ks3xgtqRQ3PcqE3gji7Yte00NOankj7m
+NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY = pk_test_51MHLWFSIoQ4sOUF7CzdUXBlbCFgAu32uNhRJp7h5Y8uJpqie1ZVGKUrRNk1P1T0etPYD9LFURVWy1KnIpCDj3SLJ00AUzBaUvT
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+sanity : which allows us easy to manage data
+sanity-img-url : dynamically change image of banner
+stripe : for payment
+next-sanity-images : to process images
+react-host-toast : provice nice banner notifications
+hotsport : img prop -> better poition selection
+slug : unique string
+suggestion : double click on word then -> ctrl + space
+[slug].js : bracket means dynamic
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Resources
+https://github.com/adrianhajdin/ecommerce_sanity_stripe/tree/main
+
+Second Application 
+https://www.youtube.com/watch?v=XxXyfkrP298&t=29534s&ab_channel=JavaScriptMastery
+
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
